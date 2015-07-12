@@ -1,0 +1,18 @@
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll.config
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.pdb
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.dll
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.pdb
+C:\Users\Ира Толя\Documents\Visual Studio 2013\Projects\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.csprojResolveAssemblyReference.cache
+F:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll.config
+F:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll
+F:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.pdb
+F:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.csprojResolveAssemblyReference.cache
+F:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.dll
+F:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.pdb
+H:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll.config
+H:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.dll
+H:\SmartHouseWebApplication\SmartHouseWebApplication\bin\SmartHouseWebApplication.pdb
+H:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.csprojResolveAssemblyReference.cache
+H:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.dll
+H:\SmartHouseWebApplication\SmartHouseWebApplication\obj\Debug\SmartHouseWebApplication.pdb

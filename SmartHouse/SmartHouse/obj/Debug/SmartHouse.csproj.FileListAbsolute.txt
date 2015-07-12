@@ -1,0 +1,18 @@
+D:\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe.config
+D:\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe
+D:\SmartHouse\SmartHouse\bin\Debug\SmartHouse.pdb
+D:\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+D:\SmartHouse\SmartHouse\obj\Debug\SmartHouse.exe
+D:\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe.config
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\obj\Debug\SmartHouse.exe
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\SmartHouse\SmartHouse\bin\Debug\SmartHouse.pdb
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe.config
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\obj\Debug\SmartHouse.exe
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\bin\Debug\SmartHouse.pdb
+C:\Users\Ира Толя\Desktop\програмирование\курси хнуре\2 курс\самостоят\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
